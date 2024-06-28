@@ -8,7 +8,7 @@ import { navLinks } from '@/constants';
 const Nav = () => {
     return (
         <header className="
-            absolute padding-x py-8 z-10 w-full
+            padding-x py-8 absolute z-10 w-full
         ">
             <nav className="
                 flex justify-between items-center max-container
